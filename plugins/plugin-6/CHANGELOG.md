@@ -1,3 +1,10 @@
+## @tumido-test/test-plugin-6 [1.2.0](https://github.com/tumido/test-npm-publish-migration-2/compare/@tumido-test/test-plugin-6@1.1.0...@tumido-test/test-plugin-6@1.2.0) (2023-07-24)
+
+
+### Features
+
+* **plugins:** update them all again ([c557726](https://github.com/tumido/test-npm-publish-migration-2/commit/c557726d5b75cf345fcf50f45e6a6281a2909f5a))
+
 ## @tumido-test/test-plugin-6 [1.1.0](https://github.com/tumido/test-npm-publish-migration-2/compare/@tumido-test/test-plugin-6@1.0.0...@tumido-test/test-plugin-6@1.1.0) (2023-07-24)
 
 
